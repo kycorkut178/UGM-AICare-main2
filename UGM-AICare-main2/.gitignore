@@ -54,8 +54,8 @@ build/
 *.code-workspace
 
 # MacOS
-.idea/
-*.iml
+# .idea/
+# *.iml
 # backend/aika.db
 # backend/*.db
 
